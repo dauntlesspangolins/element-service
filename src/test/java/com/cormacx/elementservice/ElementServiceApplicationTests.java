@@ -1,4 +1,4 @@
-package com.cormacx.elementservice.elementservice;
+package com.cormacx.elementservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
